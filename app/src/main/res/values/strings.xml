@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FollowMe</string>
+    <string name="todo">TODO</string>
+    <string name="follow">Follow</string>
+    <string name="me">Me</string>
+    <string name="follow_tirp">Follow Tirp</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="follow_me">Follow me</string>
+    <string name="please_login_to_continue">Please login to continue</string>
+    <string name="please_register_to_continue">Please register to continue</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="save_credetial">Save Credential</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="firat_name">Firat Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="ok">Ok</string>
+    <string name="generate">Generate</string>
+    <string name="enter_trip_id">Enter Trip ID</string>
+    <string name="type_here">Type here...</string>
+    <string name="following">Following</string>
+    <string name="no_network_connection_nnot_all_data_may_be_received">NO NETWORK CONNECTION\nNot all data may be received</string>
+</resources>
