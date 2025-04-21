@@ -104,7 +104,39 @@ TripTracker/
 └── gradle/
 ```
 
-## Setup
+## Download APK for Testing
+You can download the APK file for testing from the release below:
+- [Download v1.0 Testing APK]()
+<br>  
 
 ## Screenshots
+- **MainActivity**
+<div align="center">
+  <img src="" alt="Home" width="336" height="748"/>
+</div>
+<br>
+
+- **MainActivity**
+<div align="center">
+  <img src="" alt="Home" width="336" height="748"/>
+</div>
+<br>
+
+- **MainActivity**
+<div align="center">
+  <img src="" alt="Home" width="336" height="748"/>
+</div>
+<br>
+
+- **MainActivity**
+<div align="center">
+  <img src="" alt="Home" width="336" height="748"/>
+</div>
+<br>
+
+- **MainActivity**
+<div align="center">
+  <img src="" alt="Home" width="336" height="748"/>
+</div>
+<br>
 
