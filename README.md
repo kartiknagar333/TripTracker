@@ -11,6 +11,8 @@ A real-time trip sharing Android application that allows Trip Leaders to share t
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
+- [Download APK for Testing](#download-apk-for-testing)
+- [Screenshots](#screenshots)
 
 
 ## Features
@@ -106,37 +108,34 @@ TripTracker/
 
 ## Download APK for Testing
 You can download the APK file for testing from the release below:
-- [Download v1.0 Testing APK]()
+- [Download v1.0 Testing APK](https://github.com/kartiknagar333/TripTracker/releases/tag/v1.0)
 <br>  
 
 ## Screenshots
 - **MainActivity**
 <div align="center">
-  <img src="" alt="Home" width="336" height="748"/>
+  <img src="https://github.com/user-attachments/assets/974461d2-14a6-4a22-8377-f301184a583b" alt="Home" width="336" height="748"/>
 </div>
 <br>
 
-- **MainActivity**
+- **Login - Registration Dialog**
 <div align="center">
-  <img src="" alt="Home" width="336" height="748"/>
+  <img src="https://github.com/user-attachments/assets/66330c74-c8e3-4523-b358-8032632d5979" alt="Home" width="336" height="748" hspace = "10px"/>
+  <img src="https://github.com/user-attachments/assets/2e70e60b-de75-47da-8a8a-f343b051431e" alt="Home" width="336" height="748"/>
 </div>
 <br>
 
-- **MainActivity**
+- **StartTrip**
 <div align="center">
-  <img src="" alt="Home" width="336" height="748"/>
+  <img src="https://github.com/user-attachments/assets/64761347-98e6-4210-bb0c-c99d697ef87a" alt="Home" width="336" height="748" hspace = "10px"/>
+   <img src="https://github.com/user-attachments/assets/42cde04d-7b22-4646-9d26-07b2808470be" alt="Home" width="336" height="748"/>
 </div>
 <br>
 
-- **MainActivity**
+- **FollowTrip**
 <div align="center">
-  <img src="" alt="Home" width="336" height="748"/>
-</div>
-<br>
-
-- **MainActivity**
-<div align="center">
-  <img src="" alt="Home" width="336" height="748"/>
+  <img src="https://github.com/user-attachments/assets/e800d7f7-959a-4936-b071-9362f5b5afc8" alt="Home" width="336" height="748" hspace = "10px"/>
+  <img src="https://github.com/user-attachments/assets/bd823621-52d1-405e-b0d2-e5936b1fa599" alt="Home" width="336" height="748" >
 </div>
 <br>
 
